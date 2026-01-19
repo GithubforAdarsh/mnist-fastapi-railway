@@ -2,5 +2,5 @@ fastapi
 uvicorn
 numpy
 pillow
-scikit-learn
 python-multipart
+tensorflow
